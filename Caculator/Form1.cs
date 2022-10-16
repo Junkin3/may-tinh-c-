@@ -24,5 +24,13 @@ namespace Caculator
 
             txtResult.Text = c.ToString();
         }
+
+        private void bttru_Click(object sender, EventArgs e)
+        {
+            double c = (int.Parse(txtA.Text) - int.Parse(txtB.Text));
+
+
+            txtResult.Text = c.ToString();
+        }
     }
 }
