@@ -26,6 +26,7 @@ namespace Caculator
 
                 txtResult.Text = c.ToString();
             }
+
         }
 
         private void bttru_Click(object sender, EventArgs e)
