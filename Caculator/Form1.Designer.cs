@@ -36,6 +36,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.bttru = new System.Windows.Forms.Button();
+            this.btNhan = new System.Windows.Forms.Button();
+            this.btchia = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -107,11 +109,33 @@
             this.bttru.UseVisualStyleBackColor = true;
             this.bttru.Click += new System.EventHandler(this.bttru_Click);
             // 
+            // btNhan
+            // 
+            this.btNhan.Location = new System.Drawing.Point(323, 333);
+            this.btNhan.Name = "btNhan";
+            this.btNhan.Size = new System.Drawing.Size(120, 38);
+            this.btNhan.TabIndex = 8;
+            this.btNhan.Text = "Nhân";
+            this.btNhan.UseVisualStyleBackColor = true;
+            this.btNhan.Click += new System.EventHandler(this.btNhan_Click);
+            // 
+            // btchia
+            // 
+            this.btchia.Location = new System.Drawing.Point(114, 333);
+            this.btchia.Name = "btchia";
+            this.btchia.Size = new System.Drawing.Size(120, 38);
+            this.btchia.TabIndex = 9;
+            this.btchia.Text = "Chia";
+            this.btchia.UseVisualStyleBackColor = true;
+            this.btchia.Click += new System.EventHandler(this.btchia_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(514, 399);
+            this.Controls.Add(this.btchia);
+            this.Controls.Add(this.btNhan);
             this.Controls.Add(this.bttru);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
@@ -137,6 +161,8 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button bttru;
+        private System.Windows.Forms.Button btNhan;
+        private System.Windows.Forms.Button btchia;
     }
 }
 
