@@ -19,7 +19,10 @@ namespace Caculator
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
+=======
+>>>>>>> f2dab8d8b5cd3f453e3296aa526d3aa3c301c803
             if (txtA.Text != String.Empty && txtB.Text != String.Empty)
             {
                 double c = (int.Parse(txtA.Text) + int.Parse(txtB.Text));
