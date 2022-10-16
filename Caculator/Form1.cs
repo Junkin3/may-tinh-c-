@@ -32,5 +32,28 @@ namespace Caculator
 
             txtResult.Text = c.ToString();
         }
+
+        private void btNhan_Click(object sender, EventArgs e)
+        {
+            double c = (int.Parse(txtA.Text) * int.Parse(txtB.Text));
+
+
+            txtResult.Text = c.ToString();
+        }
+
+        private void btchia_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                double c = (int.Parse(txtA.Text) / int.Parse(txtB.Text));
+
+
+                txtResult.Text = c.ToString();
+            }
+            catch (DivideByZeroException)
+            {
+                MessageBox.Show("Vui lòng nhập lại số b (không thể chia hết cho 0)");
+            }
+        }
     }
 }
