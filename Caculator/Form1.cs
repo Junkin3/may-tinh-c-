@@ -16,5 +16,12 @@ namespace Caculator
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+             
+            txtResult.Text = (int.Parse(txtA.Text)+int.Parse(txtB.Text)).ToString();
+        }
     }
 }
