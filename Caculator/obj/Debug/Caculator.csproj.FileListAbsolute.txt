@@ -1,0 +1,11 @@
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\bin\Debug\Caculator.exe
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\bin\Debug\Caculator.pdb
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.exe
+C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\Caculator\obj\Debug\Caculator.pdb
