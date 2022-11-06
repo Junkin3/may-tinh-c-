@@ -16,3 +16,22 @@ C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualSt
 C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\TEST\obj\Debug\TEST.csproj.CopyComplete
 C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\TEST\obj\Debug\TEST.dll
 C:\Users\trann\OneDrive\Máy tính\may-tinh-c-\TEST\obj\Debug\TEST.pdb
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\TEST.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\TEST.pdb
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Caculator.exe
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Caculator.pdb
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Caculator.exe.config
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\test\Desktop\may-tinh-c-\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\may-tinh-c-\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\may-tinh-c-\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\test\Desktop\may-tinh-c-\TEST\obj\Debug\TEST.dll
+C:\Users\test\Desktop\may-tinh-c-\TEST\obj\Debug\TEST.pdb
+C:\Users\test\Desktop\may-tinh-c-\TEST\bin\Debug\Data\TestData.csv
